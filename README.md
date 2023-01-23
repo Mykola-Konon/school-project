@@ -1,2 +1,2 @@
 # school-project
-This is my  first project on IT
+This is my conspect on IT
